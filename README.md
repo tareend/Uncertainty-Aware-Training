@@ -4,7 +4,7 @@ TBR on date of publication.
 
 This repository contains the following files used to implement the uncertainty aware strategies presented in the journal:
 
-1. Pre-processing files to allow .npy files to be created and utilised for each strategy.
+1. Pre-processing file with basic format ('PreProcessing_Numpys') used to obtain the slices for the CRT (can be applicable to other types of images) images and crop files which were utilised as inuts for each strategy.
 
 2. Python file ('Find_Optimal_Params.py') with code on how the nested cross-validation was implemented, to show the optimal hyper param search.
 
